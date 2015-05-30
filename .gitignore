@@ -1,6 +1,13 @@
-/build
-/bin
+# Java class files
+*.class
+
+#Eclipse
 .classpath
 .settings
 .project
-.gradle
+
+#Gradle
+.gradletasknamecache
+.gradle/
+build/
+bin/
